@@ -1,0 +1,2 @@
+rootProject.name='DotAndBox_v1'
+include ':app'
