@@ -5,7 +5,7 @@ A turn-based multiplayer game like [dots and boxes](https://en.m.wikipedia.org/w
 ## Features
 
 * Fix singleplayer again AI using min-max and alpha-beta pruning
-* Maybe some update to play multi AI
+* Maybe some update to play vs multi AI
 
 
 ## Screenshots
