@@ -4,11 +4,9 @@ A turn-based multiplayer game like [dots and boxes](https://en.m.wikipedia.org/w
 
 ## Features
 
-* Different color lines for each player
-* Different color boxes for each player
-* Option to choose different grid size
-* Option to Undo Moves
-* Animations and Sound Effects
+* Fix singleplayer again AI using min-max and alpha-beta pruning
+* Maybe some update to play multi AI
+
 
 ## Screenshots
 |||||
